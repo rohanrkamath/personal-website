@@ -1,0 +1,40 @@
+.profile-container {
+display: flex;
+align-items: center; 
+justify-content: center; 
+flex-wrap: wrap; 
+max-width: 1200px; 
+margin: 20px auto; 
+}
+
+.profile-image img {
+width: 200px; 
+height: auto;
+margin-right: 20px;
+}
+
+.profile-info {
+flex: 1;
+max-width: 800px; 
+}
+
+.profile-info h1 {
+font-size: 2em;
+margin: 0 0 10px 0;
+}
+
+.profile-info p {
+margin: 0 0 20px 0;
+line-height: 1.6;
+}
+
+.content-wrapper {
+display: flex;
+min-height: 86vh;
+flex-direction: column;
+justify-content: flex-start;
+}
+
+footer {
+margin-top: auto;
+}
