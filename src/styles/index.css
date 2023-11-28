@@ -27,14 +27,3 @@ margin: 0 0 10px 0;
 margin: 0 0 20px 0;
 line-height: 1.6;
 }
-
-.content-wrapper {
-display: flex;
-min-height: 86vh;
-flex-direction: column;
-justify-content: flex-start;
-}
-
-footer {
-margin-top: auto;
-}
